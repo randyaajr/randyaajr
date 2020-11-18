@@ -6,7 +6,6 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=randyaajr)](https://github.com/randyaajr/github-readme-stats)
 
 
-![image title](https://rushter.com/counter.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=randyaajr&theme=flat)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
 
