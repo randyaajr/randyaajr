@@ -13,4 +13,4 @@ ___
 :mag_right:Contact me through:
 
 ### - :randyaajrsp@gmail.com
-### Thank you for stopping by!:v:
+### Thank you for stopping by!🤘
