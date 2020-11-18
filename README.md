@@ -8,7 +8,7 @@
 
 ![image title](https://rushter.com/counter.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=randyaajr&theme=onedark)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=randyaajr&theme=flat)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
 
 
 ___
