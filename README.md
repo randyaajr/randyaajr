@@ -1,5 +1,4 @@
 ## Hello, welcome to my GitHub page! <img src="https://media.giphy.com/media/EyNKj9eV7PYys/giphy.gif" width="40px"> My name is Randy Arthur Anderson.
-----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randyaajr&theme=dark)](https://github.com/randyaajr/github-readme-stats)
 
