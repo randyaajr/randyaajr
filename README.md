@@ -10,6 +10,7 @@
 ![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.2&color=181717&logo=flask)
 ![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.8&color=092E20&logo=django)
 ![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=3.0.8&color=lightblue&logo=react)
+![PHP](https://img.shields.io/static/v1?label=PHP&style=for-the-badge&message=3.0.8&color=a478a5&logo=php)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=randyaajr&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
