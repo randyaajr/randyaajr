@@ -2,6 +2,7 @@
 
 ### Programming Languages/Frameworks I'm currently learning 
 [![SASS](https://img.shields.io/static/v1?label=sass&style=for-the-badge&message=🦄&color=CC6699&logo=sass)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
+[![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=3.0.8&color=lightblue&logo=react)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 
 ### Programming Languages:
 [![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
@@ -14,7 +15,6 @@
 [![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)](https://materializecss.com/about.html)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
 [![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)](https://en.wikipedia.org/wiki/JQuery)
-[![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=3.0.8&color=lightblue&logo=react)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 [![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Flask_(web_framework))
 [![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)](https://en.wikipedia.org/wiki/Jinja_(template_engine))
 [![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Django_(web_framework))
