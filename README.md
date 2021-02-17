@@ -3,13 +3,13 @@
 ### Programming Languages/Frameworks I'm currently learning 
 [![SASS](https://img.shields.io/static/v1?label=sass&style=for-the-badge&message=🦄&color=CC6699&logo=sass)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 [![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=3.0.8&color=lightblue&logo=react)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+[![PHP](https://img.shields.io/static/v1?label=PHP&style=for-the-badge&message=3.0.8&color=787CB5&logo=php)](https://en.wikipedia.org/wiki/PHP)
 
 ### Programming Languages:
 [![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 [![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)](https://en.wikipedia.org/wiki/JavaScript)
 [![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![PHP](https://img.shields.io/static/v1?label=PHP&style=for-the-badge&message=3.0.8&color=787CB5&logo=php)](https://en.wikipedia.org/wiki/PHP)
 
 ### Frameworks | Libraries | APIs
 [![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)](https://materializecss.com/about.html)
