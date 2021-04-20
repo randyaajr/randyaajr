@@ -29,9 +29,11 @@
 [![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![CodePen](https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=CodePen&logoColor=FFFFFF)](https://codepen.io/randyaajr)
 
-### Hosting | PaaS
+### Hosting | PaaS | SaaS
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)](https://aws.amazon.com/)
 [![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)](https://www.heroku.com/what)
+![WordPress](https://img.shields.io/badge/WordPress%20-%23207196.svg?&style=for-the-badge&logo=WordPress&logoColor=FFFFFF)
+
 
 ### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
