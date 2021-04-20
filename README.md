@@ -52,6 +52,7 @@
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/randy-anderson-837124bb/)
 [![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/randy.anderson.963871/)
+
 ---
 
 <p align="center">
@@ -68,11 +69,4 @@
   <i>Have a project in mind? Reach out, via my email below <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/source.gif" width="15px"></img></i>
   <br>
   <i>📫 :randyaajrsp@gmail.com</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/randy-anderson-837124bb/" alt="Linkedin" target="_blank"><img src="assets/linkedin.png" width="35px"></a>
-    <a href="https://github.com/randyaajr" alt="GitHub" target="_blank"><img src="assets/github.png" width="35px"></a>
-
-  </p>
-  
 </p>
