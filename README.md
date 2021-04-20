@@ -49,6 +49,9 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)
 [![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)](https://balsamiq.com/)
 
+### Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/randy-anderson-837124bb/)
+[![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/randy.anderson.963871/)
 ---
 
 <p align="center">
